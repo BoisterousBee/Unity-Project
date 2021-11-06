@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7ab52d0c9a9152442a17c0140a8a74c8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - groundTile: {instanceID: 0}
+  - pitTile: {fileID: 11400000, guid: 4cbed3c751170c543a6d502fea6eff46, type: 2}
+  - topWallTile: {fileID: 11400000, guid: 4cbed3c751170c543a6d502fea6eff46, type: 2}
+  - botWallTile: {fileID: 11400000, guid: 4cbed3c751170c543a6d502fea6eff46, type: 2}
+  - groundMap: {instanceID: 0}
+  - pitMap: {instanceID: 0}
+  - wallMap: {instanceID: 0}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
